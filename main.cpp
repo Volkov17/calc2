@@ -81,7 +81,7 @@ int main(int argc,char *argv[]){
                         break;
                     case '&':cout<<andbit(a,b)<<endl;
                         break;
-                    case '<':
+                    case '<'cout<<leftbit(a)<<endl;
                         break;
                     case '>':
                             cout<<rightbit(a)<<endl;
